@@ -3,13 +3,13 @@
 A short Saturday morning review of Rails basics by building a simple blog.
 Topics covered:
 
-Setting routes
-Making forms
-Generating models and controllers
-Showing, editing, and destroying Posts
-Using partials
-Associating models
-Adding and destroying comments for Posts
-Refactoring
-Deleting associated objects
-Basic validation
+- Setting routes
+- Making forms
+- Generating models and controllers
+- Showing, editing, and destroying Posts
+- Using partials
+- Associating models
+- Adding and destroying comments for Posts
+- Refactoring
+- Deleting associated objects
+- Basic validation
